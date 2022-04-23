@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ravig1729" alt="ravig1729" /></a> </p>
 
-- 🌱 I’m currently learning **MERN-Stack Full Stack Web Development**
+- 🌱 I’m currently learning **MERN-Stack**
 
 - 👨‍💻 All of my projects are available at [https://portfolio-rrg.netlify.app/](https://portfolio-rrg.netlify.app/)
 
