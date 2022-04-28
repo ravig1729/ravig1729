@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Gedela Ravi</h1>
+<h1 align="center">Hi 👋, I'm Gedela Ravi (@ravig1729) </h1>
 <h3 align="center">A passionate fullstack developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ravig1729&label=Profile%20views&color=0e75b6&style=flat" alt="ravig1729" /> </p>
@@ -6,6 +6,7 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ravig1729" alt="ravig1729" /></a> </p>
 
 - 🌱 I’m currently learning **MERN-Stack**
+<span align="right"> <img src="https://camo.githubusercontent.com/ab7c7cbd6fe4304bdcd549334c44fbe0e0393dd9af396131119a2e955afb49d6/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313430302f312a59355333774f6d35325f3469597573556167624574772e6a706567" width="180px" height="100px" alt="ravig1729" /> </span>
 
 - 👨‍💻 All of my projects are available at [https://portfolio-rrg.netlify.app/](https://portfolio-rrg.netlify.app/)
 
