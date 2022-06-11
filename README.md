@@ -12,8 +12,6 @@
 
 - 📫 How to reach me **ravigedela1729@gmail.com** 
 
-- 📄 Know about my experiences [https://drive.google.com/drive/my-drive](https://drive.google.com/drive/my-drive)
-
 - ⚡ Fun fact **I am interested in Singing**
 
 <h3 align="left">Connect with me:</h3>
