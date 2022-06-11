@@ -10,7 +10,7 @@
 
 - 👨‍💻 All of my projects are available at [https://portfolio-rrg.netlify.app/](https://portfolio-rrg.netlify.app/)
 
-- 📫 How to reach me **ravigedela1729@gmail.com**
+- 📫 How to reach me **ravigedela1729@gmail.com** , **gedela.ravi@collegedekho.com**
 
 - 📄 Know about my experiences [https://drive.google.com/drive/my-drive](https://drive.google.com/drive/my-drive)
 
